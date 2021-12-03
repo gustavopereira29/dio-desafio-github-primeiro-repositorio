@@ -1,0 +1,11 @@
+Bootcamp Developer Fullstack Eduzz oferecido pela Digital Innovation One
+
+Olá, irei fazer uma anotações do que está sendo ensinado ao longo desse Bootcamp que contém 95 horas de aulas de vídeo e usam tecnologias como 
+HTML, CSS, JavaScript, Typescript, React, NodeJs entre outras.
+
+De ínicio foi passado Lógica de Programação Essencial que passa uma noção de como são estruturados um algoritimo dentro de uma linha de código.
+Na sequência aprendi mais sobre projetos ágeis com Scrum e o quão importante é para uma empresa se organizar diante de seus projetos, a importância de Scrum Master,
+Product Owner e o time DEV na elaboração de um projeto que seja rentável e que fique dentro dos planejamentos estabelecidos.
+Já em Git e Github ficou mais claro a necessidade e importância de versionamento de códigos e segurança que o Git tem sobre seus dados, o GitHub se parece muito com 
+uma rede social para desenvolvedores onde você pode ver diversos códigos de outros DEVs e contribuir para a comunidade.
+   
